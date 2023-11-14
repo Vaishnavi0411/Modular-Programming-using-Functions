@@ -42,11 +42,7 @@ Create various JavaScript functions to ​perform these operations.
 
 - Define a JavaScript function to display personal details of a customer using `alert` method in the below format.
 
-![](./Customer-details.png)
-
 - Define a function to display the menu details using `alert` method in the below format.
-
-![](./Menu-details.png)
 
 #### Task - 3: Retrieve the Price for the Items​
 
@@ -76,8 +72,3 @@ Create various JavaScript functions to ​perform these operations.
 #### Task - 5: Display the Final Bill Details
 
 - Define a function to display the customer final bill details as shown in the following format.​
-
-![](./Bill-details.png)
-
-
-**NOTE: The solution for this exercise should be provided in `veggie-pizza-solution.js` file.**
